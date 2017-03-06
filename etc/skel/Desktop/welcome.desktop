@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=firefox http://www.netrunner.com/readme-rolling-1703
+GenericName[en_US]=
+GenericName=
+Icon=help-about
+MimeType=
+Name[en_US]=Readme
+Name=Readme
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
