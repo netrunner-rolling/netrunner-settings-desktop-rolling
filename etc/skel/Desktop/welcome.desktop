@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment[en_US]=
 Comment=
-Exec=firefox http://www.netrunner.com/readme-rolling-201904
+Exec=firefox http://www.netrunner.com/readme-rolling
 GenericName[en_US]=
 GenericName=
 Icon=help-about
